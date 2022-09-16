@@ -1,3 +1,4 @@
+mod binary_search;
 mod linear_search;
 
 pub fn add(left: usize, right: usize) -> usize {
